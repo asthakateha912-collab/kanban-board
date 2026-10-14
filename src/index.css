@@ -1,0 +1,10 @@
+
+body {
+  margin: 0;
+  background-color: #f8f9fc;
+  font-family: Arial, sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
